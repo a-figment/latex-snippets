@@ -30,7 +30,7 @@ inoremap <C-l> <c-g>u<Esc>[s1z=`]a<c-g>u
 For the colorscheme, install [pywal](https://github.com/dylanaraps/pywal), add the following to your `.vimrc`
 
 ```vim
-Plug 'dylanaraps/wal'
+Plug 'dylanaraps/wal.vim'
 colorscheme wal
 set background=dark
 ```
